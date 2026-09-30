@@ -1,0 +1,23 @@
+{
+  "app_title": "SpotFinder",
+  "map_title": "Nearby places",
+  "favorites_title": "Favorites",
+  "loading_location": "Getting your location...",
+  "loading_places": "Loading places...",
+  "error_generic": "An error occurred: {}",
+  "retry": "Retry",
+  "no_favorites": "No saved places yet",
+  "save_to_favorites": "Save to favorites",
+  "remove_from_favorites": "Remove from favorites",
+  "add_note": "Add note",
+  "note_label": "Your note",
+  "rating_label": "Rating",
+  "save": "Save",
+  "note_required": "Note cannot be empty",
+  "category": "Category",
+  "language": "Language",
+  "theme": "Theme",
+  "theme_light": "Light",
+  "theme_dark": "Dark",
+  "theme_system": "System"
+}

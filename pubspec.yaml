@@ -1,0 +1,39 @@
+
+name: spotfinder_app
+description: "SpotFinder - projekt zaliczeniowy"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  go_router: ^14.2.0
+  flutter_riverpod: ^2.5.1
+  dio: ^5.4.3
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  path_provider: ^2.1.3
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  geolocator: ^12.0.0
+  easy_localization: ^3.0.7
+  flex_color_scheme: ^8.4.0
+  hive_ce: ^2.19.3
+  hive_ce_flutter: ^2.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.11
+  freezed: ^2.4.7
+  json_serializable: ^6.7.1
+  hive_ce_generator: ^1.9.2
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translations/

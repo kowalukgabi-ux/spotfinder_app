@@ -1,0 +1,23 @@
+{
+  "app_title": "SpotFinder",
+  "map_title": "Miejsca w pobliżu",
+  "favorites_title": "Ulubione",
+  "loading_location": "Ustalanie lokalizacji...",
+  "loading_places": "Pobieranie miejsc...",
+  "error_generic": "Wystąpił błąd: {}",
+  "retry": "Spróbuj ponownie",
+  "no_favorites": "Brak zapisanych miejsc",
+  "save_to_favorites": "Zapisz do ulubionych",
+  "remove_from_favorites": "Usuń z ulubionych",
+  "add_note": "Dodaj notatkę",
+  "note_label": "Twoja notatka",
+  "rating_label": "Ocena",
+  "save": "Zapisz",
+  "note_required": "Notatka nie może być pusta",
+  "category": "Kategoria",
+  "language": "Język",
+  "theme": "Motyw",
+  "theme_light": "Jasny",
+  "theme_dark": "Ciemny",
+  "theme_system": "Systemowy"
+}
